@@ -1,0 +1,75 @@
+.nav {
+	padding: 0 40px 0 40px;
+	margin: 0;
+}
+
+.nav li {
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 3px 30px 5px 30px;
+	background-color: #ccc;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+}
+
+.nav li a, .nav li a:visited, a.button {
+	text-decoration: none;
+	color: black;
+}
+
+.nav li.selected {
+	background-color: #eee;
+}
+
+.wrapper {
+	margin: 0;
+	clear: left;
+}
+
+.wrapper .window {
+	width: 500px;
+	height: 10em;
+	overflow: hidden;
+	float: left;
+	background-color: #eee;
+}
+
+.wrapper .content {
+	width: 2000px;
+	height: 10em;
+}
+
+.wrapper .section {
+	padding: 10px;
+	width: 480px;
+	height: 10em;
+	float: left;
+}
+
+.wrapper .section h1 {
+	margin-top: 0;
+}
+
+.button {
+	float: left;
+	display: block;
+	margin: 0;
+	height: 40px;
+	width: 40px;
+	border: none;
+	margin-top: 50px;
+	margin-bottom: auto;
+	text-align: center;
+	font-size: 35px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	background-color: #eee;
+}
+
+.button.right {
+	-moz-border-radius: 0;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-bottomright: 10px;
+}
+

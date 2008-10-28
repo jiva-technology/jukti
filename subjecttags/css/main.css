@@ -1,0 +1,117 @@
+body {
+	padding: 40px;
+	font-size:75%;
+	color:#222;
+	background:#fff;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight:normal;color:#111;
+	font-family: HelveticaNeue-Light, "Helvetica Neue", Arial, Verdana, sans-serif;
+	font-weight:normal;
+}
+
+input {
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.symbol {
+	text-decoration: none;
+	font-size: 2em;
+	line-height: 1.2em;
+}
+
+li {
+	list-style: none;
+}
+
+form {
+	background: #eee;
+	-webkit-border-radius:9px;
+	-moz-border-radius:9px;
+	padding: 18px;
+	position: relative;
+}
+
+.subject {
+	width:250px;
+	height:20px;
+	padding:4px 6px;
+	font-size: 1.5em;
+	border: 1px solid #bbb;
+}
+
+.subject:focus {
+	border: 1px solid #666;
+	outline: none;
+}
+
+.subject_list {
+	margin: 45px 0 0 0;
+	padding: 0;
+}
+
+.subject_list li {
+	margin: 0
+	line-height: 2em;	
+	border-bottom: 1px solid #ddd;
+	text-transform:capitalize;
+}
+
+.subject_filter {
+	margin: 0;
+	width:262px;
+	position: absolute;
+	border: 1px solid #777;
+	top:47px;
+	left: 18px;
+	background: white;
+	opacity:.8;
+	max-height: 500px;
+	overflow: hidden;
+}
+
+.subject_filter p {
+	margin: 0;
+	padding:4px 6px;
+	color: #333;
+}
+
+.subject_filter ul {
+	margin: 0;
+	padding: 0;
+}
+
+.subject_filter li {
+	margin: 0;
+	padding: 0;
+	text-transform:capitalize;
+}
+
+.subject_filter li a {
+	color: #333;
+	display: block;
+	height: 100%;
+	padding:4px 6px;
+	text-decoration: none;
+}
+
+.subject_filter li a:hover {
+	background: #ccc;
+}
+
+.filterlistitem {
+	border-bottom: 1px solid #eee;
+}
+
+.listhighlight {
+	background: #bbb;
+	border-bottom: 1px solid #777;
+}
+
+.results {
+	-webkit-border-radius:9px;
+	-moz-border-radius:9px;
+	padding:18px;
+	background: #eee;
+}

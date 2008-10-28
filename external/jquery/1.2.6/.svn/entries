@@ -1,0 +1,121 @@
+8
+
+dir
+5914
+http://jqueryjs.googlecode.com/svn/tags/1.2.6
+http://jqueryjs.googlecode.com/svn
+
+
+
+2008-05-24T18:22:17.743909Z
+5685
+jeresig
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c715fcbe-d12f-0410-84c4-316a508785bb
+
+build
+dir
+
+test
+dir
+
+GPL-LICENSE.txt
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+2c1778696d3ba68569a0352e709ae6b7
+2006-08-21T19:36:44.284573Z
+220
+john
+
+version.txt
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+b4b2d5dd219a391cfe644a20998424db
+2008-05-24T18:22:17.743909Z
+5685
+jeresig
+
+ChangeLog.txt
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+1b8d67c2ce94e23cbbb4e88ec1bb8078
+2007-12-17T01:11:02.610121Z
+4195
+brandon.aaron
+
+src
+dir
+
+MIT-LICENSE.txt
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+864fa6008a25be650e3e3429ffa8aac8
+2008-02-01T23:23:11.536176Z
+4586
+jeresig
+
+Makefile
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+d934848b814313ca33243316014c5950
+2008-04-29T03:26:06.186850Z
+5345
+brandon.aaron
+
+README
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+fada2b0dbda953c9f8583b314697a91e
+2006-08-16T21:20:38.959220Z
+208
+john
+
+build.xml
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+8a38aa9bedabeaed3912df14e362bb5e
+2008-04-29T03:26:06.186850Z
+5345
+brandon.aaron
+

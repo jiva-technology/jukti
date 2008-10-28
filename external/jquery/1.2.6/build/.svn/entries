@@ -1,0 +1,53 @@
+8
+
+dir
+5914
+http://jqueryjs.googlecode.com/svn/tags/1.2.6/build
+http://jqueryjs.googlecode.com/svn
+
+
+
+2008-01-20T14:23:22.719264Z
+4486
+joern.zaefferer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c715fcbe-d12f-0410-84c4-316a508785bb
+
+build
+dir
+
+speed
+dir
+
+runtest
+dir
+
+js.jar
+file
+
+
+
+
+2008-10-28T13:22:27.000000Z
+1af0ac8b879216be51d0bd8a9344782d
+2007-07-08T04:48:11.269026Z
+2265
+jeresig
+has-props
+
+js
+dir
+
