@@ -13,6 +13,7 @@ body {
 	background:black;
 	-webkit-border-radius:9px;
 	-moz-border-radius:9px;
+	margin-bottom: 18px;
 }
 
 .numberinput_wrap input {

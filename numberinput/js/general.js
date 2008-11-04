@@ -1,3 +1,4 @@
 $(document).ready(function() {
-	$('.number_input').numberInput(5,0,10);
+	$('#number_input1').numberInput(3,0,5);
+	$('#number_input2').numberInput(10,-10,10);
 });
