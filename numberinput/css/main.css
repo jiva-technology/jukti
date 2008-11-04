@@ -1,0 +1,58 @@
+body {
+	padding: 40px;
+	font-size:75%;
+	color:#222;
+	background:#fff;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.numberinput_wrap {
+	position: relative;
+	width:135px;
+	padding:9px;
+	background:black;
+	-webkit-border-radius:9px;
+	-moz-border-radius:9px;
+}
+
+.numberinput_wrap input {
+	border: 0;
+	background: black;
+	color: white;
+	outline: none;
+	font-size: 30px;
+	height:36px;
+	width: 100px;
+	text-align: right;
+}
+
+.numberinput_wrap a {
+	position: absolute;
+	left:124px;
+	display: block;
+	text-indent: -5000em;
+	width:27px;
+	height:27px;
+	border-left: 2px solid white;
+	outline: none;
+}
+
+.numberinput_wrap .numberinput_up {
+	top:0px;
+	border-bottom: 1px solid white;
+	background: url(../img/numberinput_arrows.gif) no-repeat 1px -24px;
+}
+
+.numberinput_wrap .numberinput_down {
+	top:28px;
+	border-top: 1px solid white;
+	background: url(../img/numberinput_arrows.gif) no-repeat 1px 1px;
+}
+
+.numberinput_wrap .numberinput_up:hover {
+	background: url(../img/numberinput_arrows.gif) no-repeat -24px -24px;
+}
+
+.numberinput_wrap .numberinput_down:hover {
+	background: url(../img/numberinput_arrows.gif) no-repeat -24px 1px;
+}
